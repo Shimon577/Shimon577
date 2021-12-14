@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shimon577
-- 👀 I’m interested in web development
+- 👀 I’m interested in AI 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
